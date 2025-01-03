@@ -1,3 +1,4 @@
+# basic operations in python
 number1 = 10
 number2 = 5
 
